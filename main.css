@@ -9,3 +9,31 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+
+#red {
+  border-top-color: #EB2B10;
+}
+
+#orange {
+  border-top-color: #EB843B;
+}
+
+#yellow {
+  border-top-color: #EBE64E;
+}
+
+#green {
+  border-top-color: #12980F;
+}
+
+#blue {
+  border-top-color: #4892D8;
+}
+
+#indigo {
+  border-top-color: #483DD8;
+}
+
+#violet {
+  border-top-color: #941DDB;
+}
